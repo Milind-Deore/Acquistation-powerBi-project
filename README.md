@@ -45,7 +45,7 @@ Audit Objectives
 
  # Authors
 
-Vaishnavi Pagar
+Milind Deore
 
 # License
 
@@ -53,4 +53,4 @@ This project is licensed under the MIT License.
 
 # Contact
 
-For any queries, please contact: vaishnavipagar31@gmail.com
+For any queries, please contact: milind.7976@gmail.com
